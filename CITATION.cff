@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite this repository as a draft research program; no DOI or release version is recorded."
+title: "SOVRINT Ontological Computation"
+authors:
+  - family-names: Pietroniro
+    given-names: Katrina
+repository-code: "https://github.com/SOVRINT-OG/sovrint-ontological-computation"
+keywords:
+  - ontology
+  - knowledge representation
+  - formal methods
+  - systems architecture
