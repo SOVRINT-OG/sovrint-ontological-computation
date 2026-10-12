@@ -89,3 +89,7 @@ All rights reserved. No license is granted by the public visibility of this repo
 ## Research status and evidence
 
 See [RESEARCH_STATUS.yaml](./RESEARCH_STATUS.yaml) for the version, release, DOI, evidence class, validation state, source-register guidance, and rights metadata. Update that record when those facts change. Cite sources beside claims that depend on them; citation alone does not grant reuse permission.
+
+## Research program
+
+See [RESEARCH_PROGRAM.md](./RESEARCH_PROGRAM.md) for the cited draft agenda and validation boundaries. Cite this repository as described in [CITATION.cff](./CITATION.cff); no release version or DOI is recorded.
